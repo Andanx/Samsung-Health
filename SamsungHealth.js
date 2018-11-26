@@ -31,10 +31,10 @@ var userTmie = function(){
 	var WinTime = month + "-" + day + "-" + hour + "-" + min
 	
 	//活动报名预设的结束时间
-	var oneActTime = "2018-05-20-23-59";
-	var twoActTime = "2018-05-27-23-59";
-	var threeActTime = "2018-06-09-23-59";
-	var fourActTime = "2018-06-30-23-59";
+	var oneActTime = "2018-12-20-23-59";
+	var twoActTime = "2019-02-27-23-59";
+	var threeActTime = "2019-06-09-23-59";
+	var fourActTime = "2019-06-30-23-59";
 	var fiveActTime = "2018-06-10-23-59";
 	var sixActTime = "2018-05-06-23-59";
 	
